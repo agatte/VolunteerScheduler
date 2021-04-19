@@ -8,5 +8,5 @@ Installation ================
 3. Install Gradle 4.6+ at https://gradle.org/install
 
 
-In the Intellij IDE, use the testing segment under the Run toolbar at the top so set up tests and edit inputs under edit configurations. 
+In the Intellij IDE, use the testing segment under the Run toolbar at the top to set up tests and edit inputs under edit configurations. 
 As soon as the website is functional, testing on the login function can be done there.
